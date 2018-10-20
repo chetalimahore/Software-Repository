@@ -1,0 +1,6 @@
+﻿  Translater.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Translater.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+Utilities.lib(Utilities.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Translater.vcxproj -> E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\Debug\Translater.dll
+  Translater.vcxproj -> E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\Debug\Translater.pdb (Partial PDB)

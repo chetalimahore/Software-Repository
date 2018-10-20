@@ -1,0 +1,76 @@
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.exe
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.pdb
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\Translater.dll
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\Translater.pdb
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\pop_up_window.g.cs
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\App.g.cs
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\MainWindow.baml
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\pop_up_window.baml
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.exe
+C:\Users\cheta\Desktop\HC\Project3\Project3 - HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.pdb
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.exe
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.pdb
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\Translater.dll
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\bin\Debug\Translater.pdb
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\pop_up_window.g.cs
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\App.g.cs
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\MainWindow.baml
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\pop_up_window.baml
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.exe
+C:\Users\cheta\Desktop\HC\Project3\Project3HC\finalist1\Himanshu_Chhabra-777993851\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.pdb
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.exe.config
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.exe
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\bin\Debug\WPFClient.pdb
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\bin\Debug\Translater.dll
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\bin\Debug\Translater.pdb
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\MainWindow.g.cs
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\CodePopUp.g.cs
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\App.g.cs
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\MainWindow.baml
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\CodePopUp.baml
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.g.resources
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.exe
+E:\bckup\MS 2nd sem\OOD in C++\Project 3\Chetali_Mahore-750500177\Project3HelpWPF\WPFClient\obj\Debug\WPFClient.pdb
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\bin\Debug\WPFClient.exe.config
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\bin\Debug\WPFClient.exe
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\bin\Debug\WPFClient.pdb
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\bin\Debug\Translater.dll
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\bin\Debug\Translater.pdb
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\MainWindow.g.cs
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\CodePopUp.g.cs
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\App.g.cs
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\MainWindow.baml
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\CodePopUp.baml
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient.g.resources
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient.exe
+E:\bckup\MS 2nd sem\OOD in C++\Project 4\Chetali_Project4_750500177\Project 4\WPFClient\obj\Debug\WPFClient.pdb
